@@ -1,2 +1,2 @@
 # VerletDemos
-Velocity Verlet Demos With Unity 3D
+Verlet Demos With Unity 3D
